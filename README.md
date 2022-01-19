@@ -7,7 +7,7 @@ I have recently completed the Ironhack bootcamp, where I studied full-stack Java
 
 ## Current Projects <br/>
 > :bike: [Cybase](https://cibaseapp.herokuapp.com/) - MERN full stack Ecommerce with full check out process, Paypal API integration, User & Admin authentication and authorization <br/>
-> [Memetics](https://memetics.herokuapp.com/) - Full stack app with user auth to create, share and follow memes <br/>
+> :rofl:[Memetics](https://memetics.herokuapp.com/) - Full stack app with user auth to create, share and follow memes <br/>
 > :joystick: [Planetoid](https://pilauria.github.io/Planetoid-HTML5-Canvas/) - Space-themed multi-directional shooter arcade game inspired by the classic 'Asteroids'.
 
 
