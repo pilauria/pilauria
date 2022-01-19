@@ -6,7 +6,8 @@ I have recently completed the Ironhack bootcamp, where I studied full-stack Java
 
 
 ## Current Projects <br/>
-> ⭐️ [Splendor](https://github.com/juliajcodes/Splender)
+> :bike: [Cybase](https://cibaseapp.herokuapp.com/)  <br/>
+> :joystick: [Planetoid](https://pilauria.github.io/Planetoid-HTML5-Canvas/)
 
 ## My Values
 :telescope: Mindset of Learning & Curiosity <br/>
