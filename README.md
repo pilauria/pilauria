@@ -12,10 +12,13 @@ I have recently completed the Ironhack bootcamp, where I studied full-stack Java
 :telescope: Mindset of Learning & Curiosity <br/>
 :raising_hand: Cooperation & Communication <br/>
 :crossed_flags: Resiliece & Endurance <br/>
-:brain: Thoughtful & Inclusive Development <br/>
+:brain: Thoughtful & Inclusive Development 
 
 ## Hobbies
-:flight_arrival: aviation enthusiast
+:flight_arrival: Aviation Enthusiast <br/>
+:cartwheeling: Body Movement Nerd <br/>
+:coffee: Coffee Wizard 
+
 
 
 ## Connect with me :thought_balloon:
