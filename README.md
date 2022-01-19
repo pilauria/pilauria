@@ -35,7 +35,8 @@ I have recently completed the Ironhack bootcamp, where I studied full-stack Java
 <img src="https://c.tenor.com/XpM54W9iO2kAAAAd/thumbs-up-okay.gif" width="250" height="auto" />
 
 #### GitHub Stats :chart_with_upwards_trend:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pilauria&theme=tokyonight&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pilauria&theme=tokyonight&show_icons=true) <br/>
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=pilauria&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![Profile View](https://komarev.com/ghpvc/?username=pilauria&style=plastic) <br/> <br/> 
  
