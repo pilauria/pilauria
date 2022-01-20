@@ -38,8 +38,6 @@ I have recently completed the Ironhack bootcamp, where I studied full-stack Java
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pilauria&theme=tokyonight&show_icons=true) <br/> <br/>
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=pilauria&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![](https://github.com/pilauria/pilauria/blob/master/generated/overview.svg)
-![](https://github.com/pilauria/pilauria/blob/master/generated/languages.svg)
 
 ![Profile View](https://komarev.com/ghpvc/?username=pilauria&style=plastic) <br/> <br/> 
  
