@@ -1,4 +1,4 @@
-# Hi there, I'm Pietro 👋
+# Hi there, I'm Pietro :raised_hand:
 I'm a full-stack developer, currently in Spain but looking for opportunities around the world! <br/> <br/>
 After many years working in the military and retail industry, I decided that I wanted to use my skills as a programmer to bring solid ideas to life and to work on inspiring projects.
 
