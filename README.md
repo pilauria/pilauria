@@ -6,7 +6,7 @@ I have recently completed the Ironhack Web Development Bootcamp: I studied full-
 
 
 ## Current Projects <br/>
-> :bike: [Cybase](https://cibaseapp.herokuapp.com/) - MERN full stack Ecommerce with full check out process, Paypal API integration, User & Admin authentication and authorization <br/>
+> :bike: [Cybase](https://cibaseapp.herokuapp.com/) - MERN full stack ecommerce with full check out process, Paypal API integration, User & Admin authentication and authorization <br/>
 > :rofl: [Memetics](https://memetics.herokuapp.com/) - Full stack app with user auth. Create, share and follow memes <br/>
 > :joystick: [Planetoid](https://pilauria.github.io/Planetoid-HTML5-Canvas/) - Space-themed multi-directional shooter arcade game inspired by the classic 'Asteroids'.
 
