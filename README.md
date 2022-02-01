@@ -39,5 +39,5 @@ I have recently completed the Ironhack Web Development Bootcamp: I studied full-
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pilauria) <br/>
 
 
-![Profile View](https://komarev.com/ghpvc/?username=pilauria&style=plastic) <br/> <br/> 
+![Profile View](https://komarev.com/ghpvc/?username=pilauria&style=plastic) <br/> <br/> <br/>
  
