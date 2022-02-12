@@ -50,3 +50,5 @@ I have recently completed the Ironhack Web Development Bootcamp: I studied full-
 
 ![Profile View](https://komarev.com/ghpvc/?username=pilauria&style=plastic) <br/> <br/> <br/>
  
+
+<!--  https://badgen.net/ -->
