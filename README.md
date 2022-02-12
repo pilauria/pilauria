@@ -44,10 +44,6 @@ I have recently completed the Ironhack Web Development Bootcamp: I studied full-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-
-## Please follow and leave the :thumbsup:
-<img src="https://c.tenor.com/XpM54W9iO2kAAAAd/thumbs-up-okay.gif" width="250" height="auto" />
-
 ## GitHub Stats :chart_with_upwards_trend:
 ![pilauria's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilauria&theme=dark&show_icons=true) <br/>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pilauria) <br/>
