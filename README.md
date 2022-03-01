@@ -5,11 +5,13 @@ After many years working in the military and retail industry, I decided that I w
 I have recently completed the Ironhack Web Development Bootcamp: I studied full-stack Javascript development and the MERN stack: MongoDB, Express, React, Node.
 
 
-## Current Projects <br/>
+## Projects <br/>
 > :bike: [Cybase](https://cibaseapp.herokuapp.com/) - MERN full stack ecommerce with full check out process, Paypal API integration, User & Admin authentication and authorization <br/>
 > :rofl: [Memetics](https://memetics.herokuapp.com/) - Full stack app with user auth. Create, share and follow memes <br/>
 > :joystick: [Planetoid](https://pilauria.github.io/Planetoid-HTML5-Canvas/) - Space-themed multi-directional shooter arcade game inspired by the classic 'Asteroids'.
 
+## Current work in progress projects <br/>
+> 📈 [Geckspense]()
 
 ## My Values
 :telescope: Mindset of Learning & Curiosity <br/>
@@ -21,8 +23,6 @@ I have recently completed the Ironhack Web Development Bootcamp: I studied full-
 :flight_arrival: Aviation Enthusiast <br/>
 :cartwheeling: Body Movement Nerd <br/>
 :coffee: Coffee Wizard 
-
-
 
 ## Connect with me :thought_balloon:
 - [Portfolio](https://www.pietrolauria.com/) <br/>
