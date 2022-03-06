@@ -21,7 +21,7 @@ I have recently completed the Ironhack Web Development Bootcamp: I studied full-
 
 ## Hobbies
 :flight_arrival: Aviation Enthusiast <br/>
-:cartwheeling: Body Movement Nerd <br/>
+:cartwheeling: Body Movement <br/>
 :coffee: Coffee Wizard 
 
 ## Connect with me :thought_balloon:
