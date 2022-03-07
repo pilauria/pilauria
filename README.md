@@ -11,7 +11,7 @@ I have recently completed the Ironhack Web Development Bootcamp: I studied full-
 > :joystick: [Planetoid](https://pilauria.github.io/Planetoid-HTML5-Canvas/) - Space-themed multi-directional shooter arcade game inspired by the classic 'Asteroids'.
 
 ## Current work in progress projects <br/>
-> 📈 [Geckspense]()
+> 📈 Geckspense: [BackEnd](https://github.com/chingu-voyages/v37-geckos-team-07be) / [FrontEnd](https://github.com/chingu-voyages/v37-geckos-team-07)
 
 ## My Values
 :telescope: Mindset of Learning & Curiosity <br/>
