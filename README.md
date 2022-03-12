@@ -4,7 +4,7 @@ After many years working in the military and retail industry, I decided to use m
 
 I have recently completed the Ironhack Web Development Bootcamp: I studied full-stack JavaScript development and the MERN stack: MongoDB, Express, React, Node.
 
-I am doing an internship with [REDI](https://www.redi-school.org/) school of digital integration, working as a front-end developer (React, Typescript, CSS/SCSS) and helping with documentation.
+I am doing an internship with [REDI](https://www.redi-school.org/) school of digital integration, working as a [front-end](https://github.com/talent-connect/connect) developer (React, Typescript, CSS/SCSS) and helping with [documentation](https://github.com/talent-connect/connect-docs).
 
 ## Current work in progress projects <br/>
 > 📈 Geckspense: [BackEnd](https://github.com/chingu-voyages/v37-geckos-team-07be) / [FrontEnd](https://github.com/chingu-voyages/v37-geckos-team-07). </br> 
