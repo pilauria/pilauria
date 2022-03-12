@@ -4,15 +4,16 @@ After many years working in the military and retail industry, I decided that I w
 
 I have recently completed the Ironhack Web Development Bootcamp: I studied full-stack Javascript development and the MERN stack: MongoDB, Express, React, Node.
 
-I am currently doing an internship with [REDI](https://www.redi-school.org/) school of digital integration working on the front-end and with documentation.
+I am doing an internship with [REDI](https://www.redi-school.org/) school of digital integration, working as a front-end developer (React, Typescript, CSS/SCSS) and helping with documentation.
+
+## Current work in progress projects <br/>
+> 📈 Geckspense: [BackEnd](https://github.com/chingu-voyages/v37-geckos-team-07be) / [FrontEnd](https://github.com/chingu-voyages/v37-geckos-team-07). </br> 
+> A fullstack finance managining app delevoped in a team of 5 people. 
 
 ## Projects <br/>
 > :bike: [Cybase](https://cibaseapp.herokuapp.com/) - MERN full stack ecommerce with full check out process, Paypal API integration, User & Admin authentication and authorization <br/>
 > :rofl: [Memetics](https://memetics.herokuapp.com/) - Full stack app with user auth. Create, share and follow memes <br/>
 > :joystick: [Planetoid](https://pilauria.github.io/Planetoid-HTML5-Canvas/) - Space-themed multi-directional shooter arcade game inspired by the classic 'Asteroids'.
-
-## Current work in progress projects <br/>
-> 📈 Geckspense: [BackEnd](https://github.com/chingu-voyages/v37-geckos-team-07be) / [FrontEnd](https://github.com/chingu-voyages/v37-geckos-team-07)
 
 ## My Values
 :telescope: Mindset of Learning & Curiosity <br/>
