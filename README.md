@@ -1,8 +1,8 @@
 # Hi there, I'm Pietro :raised_hand:
 I'm a full-stack developer, currently in Spain but looking for opportunities around the world! <br/> <br/>
-After many years working in the military and retail industry, I decided that I wanted to use my skills as a programmer to bring solid ideas to life and to work on inspiring projects.
+After many years working in the military and retail industry, I decided to use my skills as a programmer to bring solid ideas to life and work on inspiring projects.
 
-I have recently completed the Ironhack Web Development Bootcamp: I studied full-stack Javascript development and the MERN stack: MongoDB, Express, React, Node.
+I have recently completed the Ironhack Web Development Bootcamp: I studied full-stack JavaScript development and the MERN stack: MongoDB, Express, React, Node.
 
 I am doing an internship with [REDI](https://www.redi-school.org/) school of digital integration, working as a front-end developer (React, Typescript, CSS/SCSS) and helping with documentation.
 
