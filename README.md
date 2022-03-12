@@ -4,6 +4,7 @@ After many years working in the military and retail industry, I decided that I w
 
 I have recently completed the Ironhack Web Development Bootcamp: I studied full-stack Javascript development and the MERN stack: MongoDB, Express, React, Node.
 
+I am currently doing an internship with [REDI](https://www.redi-school.org/) school of digital integration working on the front-end and with documentation.
 
 ## Projects <br/>
 > :bike: [Cybase](https://cibaseapp.herokuapp.com/) - MERN full stack ecommerce with full check out process, Paypal API integration, User & Admin authentication and authorization <br/>
