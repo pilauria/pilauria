@@ -8,7 +8,7 @@ I am doing an internship with [REDI](https://www.redi-school.org/) school of dig
 
 ## Current work in progress projects <br/>
 > 📈 Geckspense: [BackEnd](https://github.com/chingu-voyages/v37-geckos-team-07be) / [FrontEnd](https://github.com/chingu-voyages/v37-geckos-team-07). </br> 
-> A fullstack finance managining app delevoped in a team of 5 people. 
+> A full-stack finance managing app developed in a team of 5 people.
 
 ## Projects <br/>
 > :bike: [Cybase](https://cibaseapp.herokuapp.com/) - MERN full stack ecommerce with full check out process, Paypal API integration, User & Admin authentication and authorization <br/>
