@@ -6,7 +6,7 @@ I have recently completed the Ironhack Web Development Bootcamp: I studied full-
 
 I am doing an internship with [REDI](https://www.redi-school.org/) school of digital integration, working as a [front-end](https://github.com/talent-connect/connect) developer (React, Typescript, CSS/SCSS) and helping with [documentation](https://github.com/talent-connect/connect-docs).
 
-## Current work in progress projects <br/>
+## I’m currently working on: <br/>
 > 📈 Geckspense: [BackEnd](https://github.com/chingu-voyages/v37-geckos-team-07be) / [FrontEnd](https://github.com/chingu-voyages/v37-geckos-team-07). </br> 
 > A full-stack finance managing app developed in a team of 5 people.
 
