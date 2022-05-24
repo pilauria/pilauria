@@ -2,14 +2,6 @@
 I'm a full-stack developer, currently in Spain but looking for opportunities around the world! <br/> <br/>
 After many years working in the military and retail industry, I decided to use my skills as a programmer to bring solid ideas to life and work on inspiring projects.
 
-I have recently completed the Ironhack Web Development Bootcamp: I studied full-stack JavaScript development and the MERN stack: MongoDB, Express, React, Node.
-
-I am doing an internship with [REDI](https://www.redi-school.org/) school of digital integration, working as a [front-end](https://github.com/talent-connect/connect) developer (React, Typescript, CSS/SCSS) and helping with [documentation](https://github.com/talent-connect/connect-docs).
-
-## I’m currently working on: <br/>
-> 📈 Geckspense: [BackEnd](https://github.com/chingu-voyages/v37-geckos-team-07be) / [FrontEnd](https://github.com/chingu-voyages/v37-geckos-team-07). </br> 
-> A full-stack finance managing app developed in a team of 5 people.
-
 ## Projects <br/>
 > :bike: [Cybase](https://cibaseapp.herokuapp.com/) - MERN full stack ecommerce with full check out process, Paypal API integration, User & Admin authentication and authorization <br/>
 > :rofl: [Memetics](https://memetics.herokuapp.com/) - Full stack app with user auth. Create, share and follow memes <br/>
