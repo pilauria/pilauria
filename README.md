@@ -32,8 +32,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Editor-blue?logo=visualstudiocode&logoColor=white&style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white&style=flat-square)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Editor-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+
 
 
 
