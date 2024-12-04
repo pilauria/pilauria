@@ -20,7 +20,7 @@
 ## Connect with me :thought_balloon:
 - [Portfolio](https://www.pietrolauria.com/) <br/>
 - [Linkedin](https://www.linkedin.com/in/pietro-lauria/) <br/>
-- [Twitter](https://twitter.com/pilauria) <br/>
+- [Twitter](https://x.com/_pietrolauria) <br/>
 
 ## Tech Stack  🛠 &nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
